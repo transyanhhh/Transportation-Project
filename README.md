@@ -1,7 +1,7 @@
 # Transportation Project
 # Project summary
 To continue developing supply-chain analytics skills, I analyzed four years (2021–2024) of transportation performance for a fictional logistics company using the Logistics and Supply Chain dataset (Austin Lasseter). The analysis measures on-time delivery rates, ETA Variation, shipping cost patterns, and impacts of traffic congestion and shipment risk levels. Results are produced at monthly and annual granularity, segmented by shipment status, traffic congestion level, Year/Month, ETA variation (hours) and risk classification, visualized through an interactive Power BI dashboard.  
-**Dataset**: Kaggle - Logistics and Supply Chain Dataset
+**Dataset**: [Kaggle - Logistics and Supply Chain Dataset](https://www.kaggle.com/datasets/datasetengineer/logistics-and-supply-chain-dataset/data)
 # Objectives & KPIs
 **Main Objective:** To analyze the operational efficiency of transportation in shipments over a 4-year period (2021-2024) using KPIs. To identify the causes of increased transportation costs and propose measures to optimize transportation operations.  
 **Key KPIs**:
